@@ -21,7 +21,7 @@ IT project leadership, process optimization, and technology strategy.
 [itFlies GmbH](https://www.itflies.ch/#contact) 
 
 ⚡ **Fun fact:**  
-Technology is my passion, but I also enjoy exploring new ways to make IT solutions more efficient and user-friendly.  
+Technology is my passion, but I also enjoy exploring new ways to make IT solutions more efficient and user-friendly. I’m a big fan of heavy metal, love nature, and fishing is one of my greatest passions.
 
 ---
 
