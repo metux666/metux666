@@ -5,7 +5,7 @@
 -->
 
 🔭 **Currently working on:**  
-Senior IT expert with a focus on project management and technology strategy. I specialize in planning and implementing efficient IT solutions. At itFlies GmbH, we develop PWA solutions based on our own OVL framework. 
+Senior IT expert with a focus on project management and technology strategy. I specialize in planning and implementing efficient IT solutions. At itFlies GmbH, we develop customer-specific PWA solutions based on our own OVL framework.
 
 🌱 **Currently learning:**  
 Exploring new technologies and best practices in IT infrastructure, cloud solutions, and digital transformation.  
