@@ -17,7 +17,8 @@ IT projects that require strategic planning, system integration, and innovative 
 IT project leadership, process optimization, and technology strategy.  
 
 📫 **How to reach me:**  
-[LinkedIn](https://www.linkedin.com/in/marco-koster-7b418619/)  
+[LinkedIn](https://www.linkedin.com/in/marco-koster-7b418619/) 
+[itFlies GmbH](https://www.itflies.ch/#contact) 
 
 ⚡ **Fun fact:**  
 Technology is my passion, but I also enjoy exploring new ways to make IT solutions more efficient and user-friendly.  
