@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Marco Koster 
+## Hi there 👋, I'm Marco Koster (metux666)
 
 <!--
 **metux666/metux666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@
 Senior IT expert with a focus on project management and technology strategy. I specialize in planning and implementing efficient IT solutions. At itFlies GmbH, we develop customer-specific PWA solutions based on our own OVL framework.
 
 🌱 **Currently learning:**  
-Exploring new technologies and best practices in IT infrastructure, cloud solutions, and digital transformation. After several years in IT project management, I am now diving deeper into programming (CSS, HTML, JavaScript, TypeScript, C#, .NET Core MS SQL) and documentation with AsciiDoc.
+Exploring new technologies and best practices in IT infrastructure, cloud solutions, and digital transformation. After several years in IT project management, I am now diving deeper into programming (CSS, HTML, JavaScript, TypeScript, C#, .NET Core, MS SQL) and documentation with AsciiDoc.
 
 👯 **Looking to collaborate on:**  
 IT projects that require strategic planning, system integration, and innovative technology management.  
