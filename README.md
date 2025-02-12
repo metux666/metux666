@@ -8,7 +8,7 @@
 Senior IT expert with a focus on project management and technology strategy. I specialize in planning and implementing efficient IT solutions. At itFlies GmbH, we develop customer-specific PWA solutions based on our own OVL framework.
 
 🌱 **Currently learning:**  
-Exploring new technologies and best practices in IT infrastructure, cloud solutions, and digital transformation. After several years in IT project management, I am now diving deeper into programming (CSS, HTML, JavaScript, TypeScript, C#, .NET Core, MS SQL) and documentation with AsciiDoc.
+For my work at itFlies GmbH, I am deepening my expertise in programming (CSS, HTML, JavaScript, TypeScript, C#, .NET Core, MS SQL, VBA) and documentation with AsciiDoc.
 
 👯 **Looking to collaborate on:**  
 IT projects that require strategic planning, system integration, and innovative technology management.  
