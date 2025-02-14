@@ -5,16 +5,16 @@
 -->
 
 🔭 **Currently working on:**  
-Senior IT expert with a focus on project management and technology strategy. I specialize in planning and implementing efficient IT solutions. At itFlies GmbH, we develop customer-specific PWA solutions based on our own OVL framework.
+Senior IT expert with a focus on project management and technology strategy. I am specialized in planning and implementing efficient IT solutions. At itFlies GmbH, we develop customer-specific PWA solutions based on our own OVL framework (CSS, HTML, JavaScript, TypeScript, C#, .NET Core, MS SQL).
 
 🌱 **Currently learning:**  
-For my work at itFlies GmbH, I am deepening my expertise in programming (CSS, HTML, JavaScript, TypeScript, C#, .NET Core, MS SQL, VBA) and documentation with AsciiDoc.
+I am currently working with AsciiDoc and Antora for the documentation of the OVL framework and customer documentation at itFlies GmbH.
 
 👯 **Looking to collaborate on:**  
 IT projects that require strategic planning, system integration, and innovative technology management.  
 
 💬 **Ask me about:**  
-IT project leadership, process optimization, and technology strategy.  
+IT project leadership, digitalization, process optimization, and technology strategy.  
 
 📫 **How to reach me:**  
 [LinkedIn](https://www.linkedin.com/in/marco-koster-7b418619/) 
