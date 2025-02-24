@@ -5,7 +5,8 @@
 -->
 
 🔭 **Currently working on:**  
-Senior IT expert with a focus on project management and technology strategy. I am specialized in planning and implementing efficient IT solutions. At itFlies GmbH, we develop customer-specific PWA solutions based on our own OVL framework (CSS, HTML, JavaScript, TypeScript, C#, .NET Core, MS SQL).
+Senior IT expert with a focus on project management and technology strategy. I am specialized in planning and implementing efficient IT solutions.
+At itFlies GmbH, we develop customer-specific PWA solutions based on our own OVL framework (CSS, HTML, JavaScript, TypeScript, C#, .NET Core, MS SQL).
 
 🌱 **Currently learning:**  
 I am currently working with AsciiDoc and Antora for the documentation of the OVL framework and customer documentation at itFlies GmbH.
